@@ -2,7 +2,7 @@
 #Pide una extensión de fichero y muestra :
 #Nombre fichero
 #contenido fichero
-#Muestra separador ======
+#Muestra separador =======
 
 
 echo -n "Extension del fichero: "
